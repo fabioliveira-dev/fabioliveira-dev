@@ -29,16 +29,13 @@
 <p align="left">  
       <a href="https://github.com/fabioliveira-dev
 ?tab=followers">
-         <img style="border-radius: 
-         5px;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fabioliveira-dev
-?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
-        <a href="https://www.linkedin.com/in/fabioliveira87">
+         <img width="130px" style="border-radius: 
+         5px;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fabioliveira-dev?logo=person-add&style=social&logoColor=black"/></a>
+      <a href="https://www.linkedin.com/in/fabioliveira87">
         <img  width="105px" alt="Conectar" tittle="Conecte-se no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/><a>
-      <a href="https://github.com/fabioliveira-dev
-?tab=repositories&sort=stargazers">
-         <img style="border-radius: 
-         5px;" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fabioliveira-dev
-?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
+      <a href="mailto:fabioliveira.dev@gmail.com">
+  <img width="70px" style="border-radius: 5px;" alt="Gmail" title="Enviar um email para fabioliveira.dev@gmail.com" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail">
+</a>
    </p>
 
 ### 💻 Linguagens e Tecnologias
