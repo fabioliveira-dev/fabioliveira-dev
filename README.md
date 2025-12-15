@@ -1,75 +1,37 @@
-# 👨🏼‍💻 Fabio de Oliveira
+# 👨‍💻 Fabio de Oliveira
+### Estudante de ADS | Python Developer em Formação | Foco em Dados
 
-**`Desenvolvedor Python`**
+**"Da precisão da gastronomia para a lógica do código."**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Fabio!)](https://git.io/typing-svg)
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na Unimar** (previsão: 07/2027) e apaixonado por transformar problemas em soluções através da tecnologia.
 
-<p>
-  Sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da tecnologia, atualmente em uma jornada para me tornar um especialista em Python. Este GitHub é o meu Dojo digital, onde pratico e documento meu aprendizado diariamente.
-</p>
+Minha trajetória é marcada pela disciplina que desenvolvi como **Sushiman**. A exigência por qualidade e atenção aos detalhes que aprendi na cozinha profissional são hoje os pilares do meu código: limpo, organizado e eficiente.
 
 ---
 
-<p>
-  <strong>🐍 Atualmente Focado em:</strong>
-  <ul>
-    <li>Aprimorar meus fundamentos em Python.</li>
-    <li>Desenvolver scripts para automação de tarefas.</li>
-    <li>Dar os primeiros passos em Análise de Dados e Inteligência Artificial.</li>
-  </ul>
-</p>
+### 🚀 O que estou construindo
+Meu foco atual é o ecossistema **Python** para Análise de Dados e Back-end:
 
-<p>
-  📫 <strong>Como me encontrar:</strong>
-  <br/>
+* 📊 **Data Science:** Manipulação de dados com **Pandas** e **NumPy** (ETL, Limpeza e Insights).
+* 🛠️ **Automação:** Scripts para otimizar tarefas do dia a dia.
+* 🏦 **Lógica:** Desenvolvimento de sistemas com regras de negócio complexas.
 
+---
 
-</p>
+### 🛠️ Tech Stack
+<div style="display: inline_block">
+  <img align="center" alt="Fabio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fabio-Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Fabio-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Fabio-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
 
-<p align="left">  
-      <a href="https://github.com/fabioliveira-dev
-?tab=followers">
-         <img width="130px" style="border-radius: 
-         5px;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fabioliveira-dev?logo=person-add&style=social&logoColor=black"/></a>
-      <a href="https://www.linkedin.com/in/fabioliveira87">
-        <img  width="105px" alt="Conectar" tittle="Conecte-se no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/><a>
-      <a href="mailto:fabioliveira.dev@gmail.com">
-  <img width="70px" style="border-radius: 5px;" alt="Gmail" title="Enviar um email para fabioliveira.dev@gmail.com" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail">
-</a>
-   </p>
+---
 
-### 💻 Linguagens e Tecnologias
+### 📫 Contato
+* 💼 [LinkedIn](https://www.linkedin.com/in/fabioliveira87)
+* 🐙 [GitHub](https://www.github.com/fabioliveira-dev)
+* 📧 fabioliveira.dev@gmail.com
 
-
-<img 
-align="center"
-    alt="PYTHON"
-    title="PYTHON"
-    width="60px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-align="center"
-    alt="VSCODE"
-    title="VSCODE"
-    width="60px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-align="center"
-    alt="PYCHARM"
-    title="PYCHARM"
-    width="60px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-/>
-<img 
-align="center"
-    alt="GITHUB"
-    title="GITHUB"
-    width="60px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+---
+*"A disciplina é a ponte entre metas e realizações."*
