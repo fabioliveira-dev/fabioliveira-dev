@@ -1,5 +1,5 @@
 # 👨‍💻 Fabio de Oliveira
-### Estudante de ADS | Python Developer em Formação | Foco em Dados
+### EEstudante de ADS | Aspirante a Engenheiro de Dados | Python • R • SQL
 
 **"Da precisão da gastronomia para a lógica do código."**
 
@@ -15,6 +15,13 @@ Meu foco atual é o ecossistema **Python** para Análise de Dados e Back-end:
 * 📊 **Data Science:** Manipulação de dados com **Pandas** e **NumPy** (ETL, Limpeza e Insights).
 * 🛠️ **Automação:** Scripts para otimizar tarefas do dia a dia.
 * 🏦 **Lógica:** Desenvolvimento de sistemas com regras de negócio complexas.
+
+---
+
+## 🎓 Certificações e Formação
+*   **Análise e Desenvolvimento de Sistemas** - Unimar (Prev. 07/2027)
+*   **Foundations: Data, Data, Everywhere** - Google
+*   **Análise de Dados e Inteligência de Negócios** - Gran Faculdade
 
 ---
 
