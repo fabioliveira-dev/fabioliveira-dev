@@ -1,5 +1,5 @@
 # 👨‍💻 Fabio de Oliveira
-### EEstudante de ADS | Aspirante a Engenheiro de Dados | Python • R • SQL
+### Estudante de ADS | Aspirante a Engenheiro de Dados | Python • R • SQL
 
 **"Da precisão da gastronomia para a lógica do código."**
 
@@ -27,14 +27,14 @@ Meu foco atual é o ecossistema **Python** para Análise de Dados e Back-end:
 
 ### 🛠️ Tech Stack
 
-<div style="display: flex; gap: 10px;">
-  <img alt="Fabio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Fabio-Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img alt="Fabio-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img alt="Fabio-SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="Fabio-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="Fabio-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
+<p align="left">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
+  <img alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> &nbsp;
+  <img alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> &nbsp;
+  <img alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
+  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
+  <img alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</p>
 
 ---
 
