@@ -19,6 +19,7 @@ Meu foco atual é o ecossistema **Python** para análise de dados: limpeza, tran
 | Projeto | O que mostra | Tecnologias |
 |---|---|---|
 | [analise-vendas-varejo](https://github.com/fabioliveira-dev/analise-vendas-varejo) | Pipeline de análise de vendas de uma loja de varejo: geração de dados simulados, limpeza, criação de variáveis e rankings por cidade e produto | Python, Pandas, NumPy |
+| [Projeto_Analise_Avancada](https://github.com/fabioliveira-dev/Projeto_Analise_Avancada) | Pipeline ETL em R: padronização de textos, remoção de nulos e pedidos cancelados, correção de erros de digitação em preços, cálculo de faturamento e ranking de vendas, com exportação de CSV limpo para BI | R, dplyr |
 | [alquimista-financeiro](https://github.com/fabioliveira-dev/alquimista-financeiro) | Gerenciador de despesas pessoais em Python | Python |
 | Maestro *(código privado)* | Robô de day trade em Python integrado ao MetaTrader 5, com foco em gestão de risco | Python |
 
